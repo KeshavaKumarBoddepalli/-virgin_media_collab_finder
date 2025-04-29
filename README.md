@@ -1,4 +1,4 @@
-# -virgin_media_collab_finder
+# Virgin Media Collab Finder
 # 📊 Virgin Media Collaboration Finder
 
 This is a simple **Streamlit app** that uses the **SerpAPI** Google Search API to find public collaborations, case studies, and partnerships between **Virgin Media** and major **Infosys competitors**.
